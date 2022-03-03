@@ -23,7 +23,7 @@ jQuery.tableEditor = {
 			insert_column_on_the_right: 'Añador columna a la derecha',
 			remove_row: 'Eliminar fila',
 			remove_column: 'Eliminar columna'
-		}
+		},
 		fr: {
 			insert_row_above: 'Ajouter ligne au-dessus',
 			insert_row_below: 'Ajouter ligne en dessus',
